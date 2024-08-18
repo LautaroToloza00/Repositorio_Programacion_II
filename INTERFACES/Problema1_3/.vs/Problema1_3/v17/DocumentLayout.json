@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4D958-C1DC-4D7D-9A47-B4043955A61F}|Problema1_3\\Problema1_3.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\interfaces\\problema1_3\\problema1_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4D958-C1DC-4D7D-9A47-B4043955A61F}|Problema1_3\\Problema1_3.csproj|solutionrelative:problema1_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4D958-C1DC-4D7D-9A47-B4043955A61F}|Problema1_3\\Problema1_3.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\interfaces\\problema1_3\\problema1_3\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4D958-C1DC-4D7D-9A47-B4043955A61F}|Problema1_3\\Problema1_3.csproj|solutionrelative:problema1_3\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4D958-C1DC-4D7D-9A47-B4043955A61F}|Problema1_3\\Problema1_3.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\interfaces\\problema1_3\\problema1_3\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4D958-C1DC-4D7D-9A47-B4043955A61F}|Problema1_3\\Problema1_3.csproj|solutionrelative:problema1_3\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4D958-C1DC-4D7D-9A47-B4043955A61F}|Problema1_3\\Problema1_3.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\interfaces\\problema1_3\\problema1_3\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4D958-C1DC-4D7D-9A47-B4043955A61F}|Problema1_3\\Problema1_3.csproj|solutionrelative:problema1_3\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E4D958-C1DC-4D7D-9A47-B4043955A61F}|Problema1_3\\Problema1_3.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\interfaces\\problema1_3\\problema1_3\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E4D958-C1DC-4D7D-9A47-B4043955A61F}|Problema1_3\\Problema1_3.csproj|solutionrelative:problema1_3\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_3\\Problema1_3\\Program.cs",
+              "RelativeDocumentMoniker": "Problema1_3\\Program.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_3\\Problema1_3\\Program.cs",
+              "RelativeToolTip": "Problema1_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:29:23.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_3\\Problema1_3\\IPrecio.cs",
+              "RelativeDocumentMoniker": "Problema1_3\\IPrecio.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_3\\Problema1_3\\IPrecio.cs",
+              "RelativeToolTip": "Problema1_3\\IPrecio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:50:42.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_3\\Problema1_3\\Producto.cs",
+              "RelativeDocumentMoniker": "Problema1_3\\Producto.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_3\\Problema1_3\\Producto.cs",
+              "RelativeToolTip": "Problema1_3\\Producto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:53:40.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pack.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_3\\Problema1_3\\Pack.cs",
+              "RelativeDocumentMoniker": "Problema1_3\\Pack.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_3\\Problema1_3\\Pack.cs",
+              "RelativeToolTip": "Problema1_3\\Pack.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:59:01.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Suelto.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_3\\Problema1_3\\Suelto.cs",
+              "RelativeDocumentMoniker": "Problema1_3\\Suelto.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_3\\Problema1_3\\Suelto.cs",
+              "RelativeToolTip": "Problema1_3\\Suelto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T05:01:43.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
