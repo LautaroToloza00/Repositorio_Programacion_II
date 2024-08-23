@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{58BEF213-9288-45ED-8258-A119F5F0B523}|Problema1_1\\Problema1_1.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\interfaces\\problema1_1\\problema1_1\\icolleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58BEF213-9288-45ED-8258-A119F5F0B523}|Problema1_1\\Problema1_1.csproj|solutionrelative:problema1_1\\icolleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BEF213-9288-45ED-8258-A119F5F0B523}|Problema1_1\\Problema1_1.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\interfaces\\problema1_1\\problema1_1\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BEF213-9288-45ED-8258-A119F5F0B523}|Problema1_1\\Problema1_1.csproj|solutionrelative:problema1_1\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_1\\Problema1_1\\Cola.cs",
+              "RelativeDocumentMoniker": "Problema1_1\\Cola.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_1\\Problema1_1\\Cola.cs",
+              "RelativeToolTip": "Problema1_1\\Cola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:49:19.69Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "Problema1_1\\Pila.cs",
               "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_1\\Problema1_1\\Pila.cs",
               "RelativeToolTip": "Problema1_1\\Pila.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T14:24:05.668Z",
               "EditorCaption": ""
@@ -58,7 +75,7 @@
               "RelativeDocumentMoniker": "Problema1_1\\Program.cs",
               "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\INTERFACES\\Problema1_1\\Problema1_1\\Program.cs",
               "RelativeToolTip": "Problema1_1\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAAA/AAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T15:26:16.327Z",
               "EditorCaption": ""
