@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\repositories\\contratos\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\repositories\\contratos\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\datos\\implementacion\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\datos\\implementacion\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\datos\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\datos\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\datos\\contratos\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\datos\\contratos\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\entidades\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entidades\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\facturacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\facturacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\entidades\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entidades\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\facturacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\facturacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\dominio\\detallefactutura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\dominio\\detallefactutura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.5\\facturacion\\facturacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1042EF-D548-4DEE-9DA7-515BDD058B41}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +54,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Repositories\\Contratos\\IClienteRepository.cs",
-              "RelativeDocumentMoniker": "Facturacion\\Repositories\\Contratos\\IClienteRepository.cs",
-              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Repositories\\Contratos\\IClienteRepository.cs",
-              "RelativeToolTip": "Facturacion\\Repositories\\Contratos\\IClienteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T04:00:27.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Entidades\\Cliente.cs",
-              "RelativeDocumentMoniker": "Facturacion\\Entidades\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Entidades\\Cliente.cs",
-              "RelativeToolTip": "Facturacion\\Entidades\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:48:19.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Factura.cs",
-              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Entidades\\Factura.cs",
-              "RelativeDocumentMoniker": "Facturacion\\Entidades\\Factura.cs",
-              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Entidades\\Factura.cs",
-              "RelativeToolTip": "Facturacion\\Entidades\\Factura.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:38:40.264Z",
+              "DocumentIndex": 4,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Facturacion\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Properties\\Resources.resx",
+              "RelativeToolTip": "Facturacion\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-10T03:54:26.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DetalleFactura.cs",
-              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Entidades\\DetalleFactura.cs",
-              "RelativeDocumentMoniker": "Facturacion\\Entidades\\DetalleFactura.cs",
-              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Entidades\\DetalleFactura.cs",
-              "RelativeToolTip": "Facturacion\\Entidades\\DetalleFactura.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:34:17.026Z",
+              "Title": "Facturacion",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Facturacion.csproj",
+              "RelativeDocumentMoniker": "Facturacion\\Facturacion.csproj",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Facturacion.csproj",
+              "RelativeToolTip": "Facturacion\\Facturacion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T03:54:11.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormaPago.cs",
-              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Entidades\\FormaPago.cs",
-              "RelativeDocumentMoniker": "Facturacion\\Entidades\\FormaPago.cs",
-              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Entidades\\FormaPago.cs",
-              "RelativeToolTip": "Facturacion\\Entidades\\FormaPago.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "DocumentIndex": 1,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Datos\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Datos\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Datos\\DataHelper.cs",
+              "RelativeToolTip": "Facturacion\\Datos\\DataHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:31:37.544Z",
+              "WhenOpened": "2024-09-10T03:37:44.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Datos\\Implementacion\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Datos\\Implementacion\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Datos\\Implementacion\\FacturaRepository.cs",
+              "RelativeToolTip": "Facturacion\\Datos\\Implementacion\\FacturaRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:34:11.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Datos\\Contratos\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Datos\\Contratos\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Datos\\Contratos\\IFacturaRepository.cs",
+              "RelativeToolTip": "Facturacion\\Datos\\Contratos\\IFacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:26:30.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Dominio\\Factura.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Dominio\\Factura.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Dominio\\Factura.cs",
+              "RelativeToolTip": "Facturacion\\Dominio\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:03:59.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Dominio\\FormaPago.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Dominio\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Dominio\\FormaPago.cs",
+              "RelativeToolTip": "Facturacion\\Dominio\\FormaPago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:03:09.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Entidades\\Articulo.cs",
-              "RelativeDocumentMoniker": "Facturacion\\Entidades\\Articulo.cs",
-              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Entidades\\Articulo.cs",
-              "RelativeToolTip": "Facturacion\\Entidades\\Articulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Title": "Facturacion",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Facturacion.csproj",
+              "RelativeDocumentMoniker": "Facturacion\\Facturacion.csproj",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Facturacion.csproj*",
+              "RelativeToolTip": "Facturacion\\Facturacion.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T02:58:46.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleFactutura.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Dominio\\DetalleFactutura.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Dominio\\DetalleFactutura.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Dominio\\DetalleFactutura.cs",
+              "RelativeToolTip": "Facturacion\\Dominio\\DetalleFactutura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:27:49.181Z",
+              "WhenOpened": "2024-09-10T03:01:50.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Facturacion\\Dominio\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:00:16.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Testing\\Program.cs",
-              "RelativeDocumentMoniker": "Facturacion\\Testing\\Program.cs",
-              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Testing\\Program.cs",
-              "RelativeToolTip": "Facturacion\\Testing\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Program.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.5\\Facturacion\\Facturacion\\Program.cs",
+              "RelativeToolTip": "Facturacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T03:17:52.126Z",
               "EditorCaption": ""

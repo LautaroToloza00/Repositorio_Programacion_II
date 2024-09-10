@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Facturacion.Entidades
+namespace Facturacion.Dominio
 {
-    public class DetalleFactura
+    public class DetalleFactutura
     {
-        public int NroDetalle { get; set; }
         public Articulo Articulo { get; set; }
         public int Cantidad { get; set; }
     }
