@@ -11,5 +11,12 @@ namespace Facturacion.Dominio
         public int Codigo { get; set; }
         public string Nombre { get; set; }
         public double PrecioUnitario { get; set; }
+
+        public override string ToString()
+        {
+            return "Articulo: "+Codigo+", "+Nombre+", "+PrecioUnitario+"$";
+        }
+       
     }
+
 }

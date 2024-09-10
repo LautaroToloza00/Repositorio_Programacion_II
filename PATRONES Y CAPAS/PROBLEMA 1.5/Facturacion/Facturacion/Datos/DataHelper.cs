@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -40,9 +41,38 @@ namespace Facturacion.Datos
             return _instance;
         }
 
+        //Este metodo lo utilizo para poder establecer la conexion en la transaccion.
         public SqlConnection GetConnection()
         {
             return _connection;
         }
+
+        public DataTable ExecuteSPQuery(string sp)
+        {
+            DataTable dt = new DataTable();
+            SqlCommand cmd = null;
+
+            try
+            {
+                _connection.Open();
+                cmd = new SqlCommand(sp,_connection);
+                cmd.CommandType = CommandType.StoredProcedure;
+                dt.Load(cmd.ExecuteReader());
+            }
+            catch (SqlException)
+            {
+
+                dt = null;
+            }
+            finally
+            {
+                if (_connection != null && _connection.State == ConnectionState.Open)
+                {
+                    _connection.Close();
+                }
+            }
+            return dt;
+        }
+
     }
 }

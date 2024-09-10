@@ -1,6 +1,5 @@
 ﻿using Facturacion.Datos.Contratos;
 using Facturacion.Dominio;
-
 using System;
 using System.Collections.Generic;
 using System.Data;
