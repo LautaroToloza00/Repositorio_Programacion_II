@@ -21,5 +21,8 @@ namespace Facturacion.Servicios
         {
             return _articuloRepository.GetAll();
         }
+        public bool GuardarArticulo(Articulo articulo){
+            return _articuloRepository.Save(articulo);
+        }
     }
 }

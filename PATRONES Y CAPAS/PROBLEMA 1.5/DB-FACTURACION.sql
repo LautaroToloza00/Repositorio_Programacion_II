@@ -104,3 +104,25 @@ BEGIN
 	SELECT ID,ARTICULO,PRE_UNITARIO
 	FROM ARTICULOS
 END
+
+GO
+ --NUEVO PROCEDIMIENTO
+CREATE PROCEDURE SP_GUARDAR_ARTICULO
+@articulo varchar(75),
+@precio decimal(12,2),
+@codigo int = 0
+AS
+BEGIN
+	IF @codigo = 0
+		BEGIN
+			INSERT INTO ARTICULOS(ARTICULO,PRE_UNITARIO)
+			VALUES(@articulo,@precio)
+		END
+	ELSE
+		BEGIN
+			UPDATE ARTICULOS
+			SET ARTICULO = @articulo, PRE_UNITARIO = @precio
+			WHERE ID = @codigo
+		END
+END;
+select * from ARTICULOS

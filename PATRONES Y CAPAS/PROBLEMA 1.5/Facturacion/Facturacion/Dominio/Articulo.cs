@@ -14,7 +14,7 @@ namespace Facturacion.Dominio
 
         public override string ToString()
         {
-            return "Articulo: "+Codigo+", "+Nombre+", "+PrecioUnitario+"$";
+            return "Articulo: "+Codigo+", "+Nombre+", "+PrecioUnitario+" $";
         }
        
     }

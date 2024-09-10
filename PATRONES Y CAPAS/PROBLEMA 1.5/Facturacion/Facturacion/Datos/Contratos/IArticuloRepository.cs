@@ -10,5 +10,6 @@ namespace Facturacion.Datos.Contratos
     public interface IArticuloRepository
     {
         List<Articulo> GetAll();
+        bool Save(Articulo articulo);
     }
 }
