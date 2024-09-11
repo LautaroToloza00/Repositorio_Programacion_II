@@ -24,5 +24,9 @@ namespace Facturacion.Servicios
         public bool GuardarArticulo(Articulo articulo){
             return _articuloRepository.Save(articulo);
         }
+        public bool EliminarArticulo(int id)
+        {
+            return _articuloRepository.Delete(id);
+        }
     }
 }

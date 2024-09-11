@@ -12,6 +12,36 @@ namespace Facturacion.Datos.Implementacion
 {
     public class ArticuloRepository : IArticuloRepository
     {
+        public bool Delete(int id)
+        {
+            bool result = true;
+            string spName = "SP_ELIMINAR_ARTICULO";
+            SqlConnection cnn = null;
+            try
+            {
+                cnn = DataHelper.GetInstance().GetConnection();
+                cnn.Open();
+                SqlCommand cmd = new SqlCommand(spName,cnn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@id", id);
+                cmd.ExecuteNonQuery();
+            }
+            catch (SqlException)
+            {
+                result = false;
+            }
+            finally
+            {
+                if(cnn != null && cnn.State == ConnectionState.Open)
+                {
+                    cnn.Close();
+                }
+                
+            }
+            return result;
+
+        }
+
         public List<Articulo> GetAll()
         {
             string spName = "SP_OBTENER_ARTICULOS";
@@ -46,6 +76,7 @@ namespace Facturacion.Datos.Implementacion
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@articulo",articulo.Nombre);
                 cmd.Parameters.AddWithValue("@precio",articulo.PrecioUnitario);
+                cmd.Parameters.AddWithValue("@codigo",articulo.Codigo);
                 cmd.ExecuteNonQuery();
 
             }

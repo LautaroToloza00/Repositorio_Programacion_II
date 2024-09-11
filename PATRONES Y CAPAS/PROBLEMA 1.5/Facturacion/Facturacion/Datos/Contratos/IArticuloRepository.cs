@@ -9,7 +9,17 @@ namespace Facturacion.Datos.Contratos
 {
     public interface IArticuloRepository
     {
+        // CRUD
+
+        // Read
         List<Articulo> GetAll();
+
+        // Create - Update
         bool Save(Articulo articulo);
+
+        // Delete
+        bool Delete(int id);
+
+
     }
 }

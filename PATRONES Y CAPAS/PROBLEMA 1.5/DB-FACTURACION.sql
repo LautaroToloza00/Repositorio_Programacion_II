@@ -110,7 +110,7 @@ GO
 CREATE PROCEDURE SP_GUARDAR_ARTICULO
 @articulo varchar(75),
 @precio decimal(12,2),
-@codigo int = 0
+@codigo int
 AS
 BEGIN
 	IF @codigo = 0
@@ -125,4 +125,14 @@ BEGIN
 			WHERE ID = @codigo
 		END
 END;
-select * from ARTICULOS
+
+GO
+
+CREATE PROCEDURE SP_ELIMINAR_ARTICULO
+@id int
+AS
+BEGIN 
+	DELETE ARTICULOS
+	WHERE ID = @id
+END
+
