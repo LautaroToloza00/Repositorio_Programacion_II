@@ -1,0 +1,6 @@
+@CinePracticaParcial_HostAddress = http://localhost:5023
+
+GET {{CinePracticaParcial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

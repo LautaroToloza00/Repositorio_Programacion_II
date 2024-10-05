@@ -7,24 +7,36 @@
       "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo\\producto\\producto\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo\\producto\\producto\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo\\producto\\producto\\domine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\domine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo\\producto\\producto\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo\\producto\\producto\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo\\producto\\producto\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo\\producto\\producto\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo\\producto\\producto\\data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo\\producto\\producto\\domine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\domine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo\\producto\\producto\\producto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\producto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo\\producto\\producto\\producto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9C08269-F4A2-4140-94C5-60F5DC2C54CD}|Producto\\Producto.csproj|solutionrelative:producto\\producto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,52 +50,51 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Service\\ProductService.cs",
-              "RelativeDocumentMoniker": "Producto\\Service\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Service\\ProductService.cs",
-              "RelativeToolTip": "Producto\\Service\\ProductService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T03:44:51.392Z",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Producto\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Properties\\Resources.resx",
+              "RelativeToolTip": "Producto\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-08T15:36:23.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DataHelper.cs",
               "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Data\\DataHelper.cs",
               "RelativeDocumentMoniker": "Producto\\Data\\DataHelper.cs",
               "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Data\\DataHelper.cs",
               "RelativeToolTip": "Producto\\Data\\DataHelper.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABOAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T03:09:20.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Data\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Producto\\Data\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Data\\ProductRepository.cs",
               "RelativeToolTip": "Producto\\Data\\ProductRepository.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABwAAAAuAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T03:06:36.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Domine\\Product.cs",
               "RelativeDocumentMoniker": "Producto\\Domine\\Product.cs",
               "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Domine\\Product.cs",
               "RelativeToolTip": "Producto\\Domine\\Product.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAmAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T02:30:41.785Z",
               "EditorCaption": ""
@@ -96,7 +107,7 @@
               "RelativeDocumentMoniker": "Producto\\Program.cs",
               "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Program.cs",
               "RelativeToolTip": "Producto\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T02:29:37.228Z",
               "EditorCaption": ""
@@ -109,9 +120,47 @@
               "RelativeDocumentMoniker": "Producto\\Data\\IProductRepository.cs",
               "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Data\\IProductRepository.cs",
               "RelativeToolTip": "Producto\\Data\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T02:58:30.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Producto\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Service\\ProductService.cs",
+              "RelativeToolTip": "Producto\\Service\\ProductService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:44:51.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Producto.csproj",
+              "RelativeDocumentMoniker": "Producto\\Producto.csproj",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Producto.csproj",
+              "RelativeToolTip": "Producto\\Producto.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T15:36:09.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Producto.csproj",
+              "RelativeDocumentMoniker": "Producto\\Producto.csproj",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO\\Producto\\Producto\\Producto.csproj",
+              "RelativeToolTip": "Producto\\Producto.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T15:35:59.7Z",
               "EditorCaption": ""
             }
           ]

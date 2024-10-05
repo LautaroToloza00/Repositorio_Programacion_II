@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.6\\banco\\banco\\data\\tipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|solutionrelative:banco\\data\\tipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.6\\banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|solutionrelative:banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.6\\banco\\banco\\service\\tipocuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|solutionrelative:banco\\service\\tipocuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.6\\banco\\banco\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|solutionrelative:banco\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.6\\banco\\banco\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|solutionrelative:banco\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.6\\banco\\banco\\domine\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|solutionrelative:banco\\domine\\tipocuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.6\\banco\\banco\\data\\itipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|solutionrelative:banco\\data\\itipocuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.6\\banco\\banco\\domine\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|solutionrelative:banco\\domine\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\problema 1.6\\banco\\banco\\domine\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6126B9B-B1C7-4F9F-AFA6-B52A1EBA3CC9}|Banco\\Banco.csproj|solutionrelative:banco\\domine\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Banco\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Properties\\Resources.resx",
+              "RelativeToolTip": "Banco\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-08T01:04:52.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoCuentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Service\\TipoCuentaService.cs",
+              "RelativeDocumentMoniker": "Banco\\Service\\TipoCuentaService.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Service\\TipoCuentaService.cs",
+              "RelativeToolTip": "Banco\\Service\\TipoCuentaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T00:32:40.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Banco\\Data\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Data\\DataHelper.cs",
+              "RelativeToolTip": "Banco\\Data\\DataHelper.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:37:44.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoCuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Data\\TipoCuentaRepository.cs",
+              "RelativeDocumentMoniker": "Banco\\Data\\TipoCuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Data\\TipoCuentaRepository.cs",
+              "RelativeToolTip": "Banco\\Data\\TipoCuentaRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:36:40.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Program.cs",
+              "RelativeDocumentMoniker": "Banco\\Program.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Program.cs",
+              "RelativeToolTip": "Banco\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:21:54.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Domine\\TipoCuenta.cs",
+              "RelativeDocumentMoniker": "Banco\\Domine\\TipoCuenta.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Domine\\TipoCuenta.cs",
+              "RelativeToolTip": "Banco\\Domine\\TipoCuenta.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:24:38.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITipoCuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Data\\ITipoCuentaRepository.cs",
+              "RelativeDocumentMoniker": "Banco\\Data\\ITipoCuentaRepository.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Data\\ITipoCuentaRepository.cs",
+              "RelativeToolTip": "Banco\\Data\\ITipoCuentaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:35:26.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Domine\\Cliente.cs",
+              "RelativeDocumentMoniker": "Banco\\Domine\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Domine\\Cliente.cs",
+              "RelativeToolTip": "Banco\\Domine\\Cliente.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:26:16.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Domine\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Banco\\Domine\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\PROBLEMA 1.6\\Banco\\Banco\\Domine\\Cuenta.cs",
+              "RelativeToolTip": "Banco\\Domine\\Cuenta.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:25:25.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

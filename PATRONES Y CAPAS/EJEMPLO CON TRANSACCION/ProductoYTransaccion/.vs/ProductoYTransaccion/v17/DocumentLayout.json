@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo con transaccion\\productoytransaccion\\productoytransaccion\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|solutionrelative:productoytransaccion\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo con transaccion\\productoytransaccion\\productoytransaccion\\domine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|solutionrelative:productoytransaccion\\domine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo con transaccion\\productoytransaccion\\productoytransaccion\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|solutionrelative:productoytransaccion\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo con transaccion\\productoytransaccion\\productoytransaccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|solutionrelative:productoytransaccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo con transaccion\\productoytransaccion\\productoytransaccion\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|solutionrelative:productoytransaccion\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo con transaccion\\productoytransaccion\\productoytransaccion\\data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|solutionrelative:productoytransaccion\\data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo con transaccion\\productoytransaccion\\productoytransaccion\\data\\presupuestorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|solutionrelative:productoytransaccion\\data\\presupuestorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo con transaccion\\productoytransaccion\\productoytransaccion\\domine\\detallepresupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|solutionrelative:productoytransaccion\\domine\\detallepresupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|c:\\users\\lautaro\\onedrive\\documentos\\proyectos c#\\patrones y capas\\ejemplo con transaccion\\productoytransaccion\\productoytransaccion\\domine\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF65388-C4D2-4D12-8AB3-0C17C38DC351}|ProductoYTransaccion\\ProductoYTransaccion.csproj|solutionrelative:productoytransaccion\\domine\\presupuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductoYTransaccion\\Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "ProductoYTransaccion\\Data\\ProductRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:43:56.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Data\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductoYTransaccion\\Data\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Data\\IProductRepository.cs",
+              "RelativeToolTip": "ProductoYTransaccion\\Data\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:43:51.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductoYTransaccion\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Service\\ProductService.cs",
+              "RelativeToolTip": "ProductoYTransaccion\\Service\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:42:13.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "ProductoYTransaccion\\Data\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Data\\DataHelper.cs",
+              "RelativeToolTip": "ProductoYTransaccion\\Data\\DataHelper.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:46:12.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Domine\\Product.cs",
+              "RelativeDocumentMoniker": "ProductoYTransaccion\\Domine\\Product.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Domine\\Product.cs",
+              "RelativeToolTip": "ProductoYTransaccion\\Domine\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:07:12.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PresupuestoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Data\\PresupuestoRepository.cs",
+              "RelativeDocumentMoniker": "ProductoYTransaccion\\Data\\PresupuestoRepository.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Data\\PresupuestoRepository.cs",
+              "RelativeToolTip": "ProductoYTransaccion\\Data\\PresupuestoRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:29:18.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Program.cs",
+              "RelativeDocumentMoniker": "ProductoYTransaccion\\Program.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Program.cs",
+              "RelativeToolTip": "ProductoYTransaccion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:40:45.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetallePresupuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Domine\\DetallePresupuesto.cs",
+              "RelativeDocumentMoniker": "ProductoYTransaccion\\Domine\\DetallePresupuesto.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Domine\\DetallePresupuesto.cs",
+              "RelativeToolTip": "ProductoYTransaccion\\Domine\\DetallePresupuesto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:30:15.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Presupuesto.cs",
+              "DocumentMoniker": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Domine\\Presupuesto.cs",
+              "RelativeDocumentMoniker": "ProductoYTransaccion\\Domine\\Presupuesto.cs",
+              "ToolTip": "C:\\Users\\Lautaro\\OneDrive\\Documentos\\PROYECTOS C#\\PATRONES Y CAPAS\\EJEMPLO CON TRANSACCION\\ProductoYTransaccion\\ProductoYTransaccion\\Domine\\Presupuesto.cs",
+              "RelativeToolTip": "ProductoYTransaccion\\Domine\\Presupuesto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:22:47.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
